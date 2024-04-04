@@ -121,7 +121,7 @@ app.put('/persons/:id/addFriend/:friendId', async (req,res) => {
         // })
 
         if(!person.friends.find(f => f._id === friendId)){
-            person.friends.push(friendId)       //detta var put(friend) innan vi gjorde om metoden till att bara lagra _id i [friends]
+            person.friends.push(friendId)       //detta var push(friend) innan vi gjorde om metoden till att bara lagra _id i [friends]
             await db.update({_id: person._id}, { $set: {friends: person.friends}})
             res.status(200).send("updated friendlist")
 
