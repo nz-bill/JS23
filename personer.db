@@ -1,0 +1,11 @@
+{"name":"Bill","age":20,"friends":[{"name":"Banarne","age":36,"friends":[],"_id":"jw1o0CbjzMwh6PIR"}],"_id":"aCc5I3kLbsSTo0yT"}
+{"name":"Banarne","age":36,"friends":[{"name":"Bosse","age":33,"friends":[],"_id":"ufN0SuSbPyndTadU"},{"name":"Bill","age":20,"friends":[{"name":"Banarne","age":36,"friends":[],"_id":"jw1o0CbjzMwh6PIR"}],"_id":"aCc5I3kLbsSTo0yT"}],"_id":"jw1o0CbjzMwh6PIR"}
+{"name":"Bosse","age":33,"friends":[{"name":"Bill","age":20,"friends":[{"name":"Banarne","age":36,"friends":[],"_id":"jw1o0CbjzMwh6PIR"}],"_id":"aCc5I3kLbsSTo0yT"}],"_id":"ufN0SuSbPyndTadU"}
+{"$$deleted":true,"_id":"jw1o0CbjzMwh6PIR"}
+{"$$deleted":true,"_id":"ufN0SuSbPyndTadU"}
+{"name":"Banarne","age":36,"friends":[],"_id":"kCue4iitoRMQO5Cg"}
+{"name":"Banarne","age":36,"friends":[],"_id":"FLVZbitAUoz6imxL"}
+{"name":"Banarne","age":36,"friends":[],"_id":"2BgwqLrST0xtEc9I"}
+{"name":"Banarne","age":36,"friends":[],"_id":"4TWO0N4mkp78aLfb"}
+{"name":"Banarne","age":36,"friends":["4TWO0N4mkp78aLfb"],"_id":"2BgwqLrST0xtEc9I"}
+{"name":"Banarne","age":36,"friends":["4TWO0N4mkp78aLfb","kCue4iitoRMQO5Cg"],"_id":"2BgwqLrST0xtEc9I"}
